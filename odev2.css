@@ -1,0 +1,81 @@
+
+.logo {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.searchtext{
+    font-weight: normal;
+}
+
+.container {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+
+.aramacubugu {
+    background-color: rgb(238, 238, 238);
+}
+
+
+.box1 {
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+  
+    text-align: center;
+    font-size: medium;
+}
+
+
+.box2 {
+    background-color: rgb(112, 204, 194);
+   
+    margin-left: 2px;
+    margin-right: 1px;
+    text-align: center;
+    text-align-last: center;
+    font-size: small;
+    
+}
+
+.box3 {
+    background-color: rgb(98, 179, 170);
+
+    text-align: center;
+    font-size: small;
+}
+
+
+.footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: small;
+    padding: 16px;
+
+}
+
+
+
+
+
+
+.center {
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+
+}
+
+
+
+
+
+
