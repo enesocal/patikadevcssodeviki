@@ -1,4 +1,8 @@
 # patikadevcssodeviki
+
+Bu repoyu  www.patika.dev Front-End Eğitiminde ödev  olarak yaptım.
+Konu:  Google 1998 arayüzü.
+
 Ödev 2
 Google Ana Sayfasını Tasarlamak
 Hepimiz her gün Google kullanıyoruz ve çok işimize yarıyor değil mi? Her gün Google'da milyonlarca arama yapılıyor ve hatta siz de bu sayfaya gelmek için Google'ı kullanmış olabilirsiniz. Peki Google'ın geçmişten günümüze nasıl geliştiğini hiç merak ettiniz mi?
